@@ -1,0 +1,384 @@
+body {
+    background: #1f242d;
+    color: #fff;
+}
+
+
+.frame1
+{
+height:831px;
+width:1353px;
+padding:0px;
+left:46px;
+top:28px;
+position:relative;
+}
+.portfolio
+{
+color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:24px;
+font-family:Sen;
+line-height:auto;
+border-style:hidden;
+outline:none;
+top:3px;
+left:8px;
+position:absolute;
+width:132px;
+}
+.home
+{
+/* background-color:#ffffff; */
+height:24px;
+width:56px;
+padding:0px;
+border-style:hidden;
+outline:none;
+top:5px;
+left:322px;
+position:absolute;
+}
+.home2
+{
+color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:20px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:57px;
+}
+.home3
+{
+/* background-color:#ffffff; */
+height:24px;
+width:59px;
+padding:0px;
+border-style:hidden;
+outline:none;
+top:5px;
+left:441px;
+position:absolute;
+}
+.home4
+{
+color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:20px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:58px;
+}
+.home5
+{
+/* background-color:#ffffff; */
+height:24px;
+width:83px;
+padding:0px;
+border-style:hidden;
+outline:none;
+top:5px;
+left:560px;
+position:absolute;
+}
+.home6
+{
+color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:20px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:83px;
+}
+.home7
+{
+/* background-color:#ffffff; */
+height:24px;
+width:81px;
+padding:0px;
+border-style:hidden;
+outline:none;
+top:5px;
+left:679px;
+position:absolute;
+}
+.home8
+{
+color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:20px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:78px;
+}
+.home9
+{
+/* background-color:#ffffff; */
+height:24px;
+width:77px;
+padding:0px;
+border-style:hidden;
+outline:none;
+top:5px;
+left:798px;
+position:absolute;
+}
+.home10
+{
+color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:20px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:77px;
+}
+.home11
+{
+/* background-color:#ffffff; */
+height:24px;
+width:52px;
+padding:0px;
+border-style:hidden;
+outline:none;
+top:5px;
+left:926px;
+position:absolute;
+}
+.home12
+{
+color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:20px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:50px;
+}
+.home13
+{
+/* background-color:#ffffff; */
+height:24px;
+width:125px;
+padding:0px;
+border-style:hidden;
+outline:none;
+top:5px;
+left:1151px;
+position:absolute;
+}
+.home14
+{
+color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:20px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:121px;
+}
+.home15
+{
+/* background-color:#ffffff; */
+height:24px;
+width:94px;
+padding:0px;
+border-style:hidden;
+outline:none;
+top:5px;
+left:1021px;
+position:absolute;
+}
+.home16
+{
+color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:20px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:90px;
+}
+.helloit’sme
+{
+color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:32px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+top:182px;
+left:13px;
+position:absolute;
+width:191px;
+}
+.dalwadikathan
+{
+color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:75px;
+font-family:Sen;
+line-height:auto;
+border-style:hidden;
+outline:none;
+top:221px;
+left:8px;
+position:absolute;
+width:606px;
+}
+.andi’ma
+{
+color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:32px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+top:311px;
+left:8px;
+position:absolute;
+width:144px;
+}
+.infoo{
+color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:20px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+top:376px;
+left:5px;
+position:absolute;
+width:624px;
+}
+.rectangle1
+{
+background-color:#01eeff;
+height:55px;
+width:200px;
+border-radius:15px;
+top:474px;
+left:8px;
+position:absolute;
+}
+.moreaboutme
+{
+color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:20px;
+font-family:Roboto;
+line-height:auto;
+border-style:hidden;
+outline:none;
+top:490px;
+left:32px;
+position:absolute;
+width:139px;
+}
+.fronteddeveloper
+{
+color:#01eeff;
+text-align:left;
+vertical-align:text-top;
+font-size:32px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+top:311px;
+left:167px;
+position:absolute;
+width:293px;
+}
+
+.footer {
+    background-color: #000206;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch; /* Make items stretch vertically */
+    padding: 20px;
+}
+
+.footer-left,
+.follow-us,
+.footer-right {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align items to the left */
+}
+
+.about-section {
+    max-width: 300px; /* Set a maximum width for the about section */
+    margin-top: 20px; /* Add spacing between sections */
+}
+
+.circular-photo {
+    margin-left: 900px;
+    margin-top: 120px;
+    border-radius: 50%; /* Make the image circular */
+    width: 400px; /* Adjust the width of the circular photo */
+    height: 400px; /* Adjust the height of the circular photo */
+    object-fit: cover; /* Maintain aspect ratio and cover the container */
+}
+
+.about-section h2 {
+    font-size: 20px; /* Adjust font size */
+    margin-bottom: 10px; /* Add spacing below heading */
+}
+
+.about-section p {
+    font-size: 16px; /* Adjust font size */
+    line-height: 1.5; /* Set line height for better readability */
+}
+
+
+.name {
+    font-size: 36px; /* Increase font size */
+    font-weight: bold;
+    flex-grow: 1; /* Make the name section cover the entire vertical space */
+}
+
+.about-section h2 {
+    font-size: 20px; /* Adjust font size */
+    margin-bottom: 10px; /* Add spacing below heading */
+}
+
+.social-media {
+    /* Style your social media icons/buttons here */
+}
+
+.email,
+.phone {
+    display: block;
+    margin-top: 10px; /* Add spacing between contact details */
+}
